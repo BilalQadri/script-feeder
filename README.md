@@ -15,5 +15,7 @@ Proper procedure is followed to make all pieces work together:
 
 - Put index.js in your HTML file.
 
+- Put cursor at opening of the parenthesis and press CTRL + s, your code will be translated and evaluated in the browser.
+
 
 ##### It can used for browser extensions. Please use background0.lisp and script0.lisp names for script files.
