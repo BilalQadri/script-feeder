@@ -1,5 +1,5 @@
 # script-feeder
-It may be used to send Parenscript code snippet (translated to JavaScript) from Emacs to browser for immediate evaluation.
+It may be used to send Parenscript code snippet (translated to JavaScript) from Emacs to browser for immediate evaluation for live coding.
 
 
 Proper procedure is followed to make all pieces work together:
