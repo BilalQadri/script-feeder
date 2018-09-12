@@ -19,3 +19,9 @@ Proper procedure is followed to make all pieces work together:
 
 
 ##### It can used for browser extensions. Please use background0.lisp and script0.lisp names for script files.
+
+
+
+## TODO
+
+- Make a repl in comint mode for easy evaluation.
