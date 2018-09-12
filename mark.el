@@ -15,7 +15,7 @@
   (interactive)
   (backward-up-list)
   (mark-sexp)
-  (evali (concat "(echo:send (cl-igloo:ps " (hov) ") \"" (substring (buffer-name) 0 -6) "\")")))
+  (evali (concat "(echo:send (ps " (hov) ") \"" (substring (buffer-name) 0 -6) "\")")))
 
 
 
